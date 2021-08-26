@@ -1,0 +1,18 @@
+name: Ashwath Shetty
+nickname: Ashwath
+image: images/logo_round.png
+#image: images/avatar.png
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am "
+
+# # give your contact information. they will be used in the footer
+contactInfo:
+  email: "ashwathkumarshettyr@gmail.com"
+  phone: "+91 9740902530"
+
+# # a summary of what you do
+summary:
+- I am a Developer
+- I work with Python 
+- I love to work with some fun projects
